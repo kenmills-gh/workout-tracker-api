@@ -17,8 +17,9 @@ A robust backend REST API built with **Flask**, **SQLAlchemy**, and **Marshmallo
 
 1. **Clone the repository:**
     ```bash
+    folk this repo
     git clone <your-repository-url>
-    cd workout-tracker-api
+    cd <your-repository-url>
 2. **Install Dependencies:**
     ```bash
     pipenv install
